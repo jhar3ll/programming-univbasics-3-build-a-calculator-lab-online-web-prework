@@ -20,7 +20,7 @@ end
 
 def square_root(num)
  root = Math.sqrt(num)
- root.to_i
+ root.round
 
 
 p addition(14,56)
