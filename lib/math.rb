@@ -19,8 +19,8 @@ def modulo(num1, num2)
 end
 
 def square_root(num)
- Math.sqrt(num).to_i
- 
+ root = Math.sqrt(num)
+ root.to_i
 
 
 p addition(14,56)
