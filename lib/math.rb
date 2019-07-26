@@ -21,7 +21,7 @@ end
 def square_root(num)
  root = Math.sqrt(num)
  root.round
-
+end
 
 p addition(14,56)
 p subtraction(687,300)
