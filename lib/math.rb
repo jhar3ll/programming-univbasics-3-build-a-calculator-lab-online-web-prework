@@ -20,7 +20,7 @@ end
 
 def square_root(num)
  root = Math.sqrt(num)
- root % 1 
+ root / 1.0 
 end
 
 
