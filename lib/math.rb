@@ -19,9 +19,10 @@ def modulo(num1, num2)
 end
 
 def square_root(num)
- Math.sqrt(num).round #used .round because I wanted to return an integer rather than                    a float :)
+ Math.sqrt(num).round 
+ end
  
-end
+ #used .round because I wanted to return an integer rather than                    a float :)
 
 p addition(14,56)
 p subtraction(687,300)
