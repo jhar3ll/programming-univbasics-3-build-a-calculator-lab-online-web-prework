@@ -1,10 +1,9 @@
 def addition(num1, num2)
- sum = (num1 + num2)
- 
- end
+ sum = num1 + num2
+end
 
 def subtraction(num1, num2)
- puts(num1 - num2)
+ difference = (num1 - num2)
 end
 
 def division(num1, num2)
@@ -24,9 +23,9 @@ def square_root(num)
 end
 
 
-addition (14, 56)
-subtraction (687. 300)
-multiplication (10, 20)
-division (2000, 80)
-modulo (56, 7)
-square_root (144)
+p addition (14, 56)
+p subtraction (687. 300)
+p multiplication (10, 20)
+p division (2000, 80)
+p modulo (56, 7)
+p square_root (144)
