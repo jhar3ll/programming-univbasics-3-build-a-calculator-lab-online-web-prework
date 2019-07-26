@@ -23,9 +23,9 @@ def square_root(num)
 end
 
 
-p addition (14,56)
-p subtraction (687.300)
-p multiplication (10,20)
-p division (2000,80)
-p modulo (56,7)
-p square_root (144)
+p addition(14,56)
+p subtraction(687.300)
+p multiplication(10,20)
+p division(2000,80)
+p modulo(56,7)
+p square_root(144)
