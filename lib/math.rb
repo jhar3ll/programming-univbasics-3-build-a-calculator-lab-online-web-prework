@@ -19,7 +19,7 @@ def modulo(num1, num2)
 end
 
 def square_root(num)
- Math.sqrt(num).round
+ Math.sqrt(num).round #used .round because I wanted to return an integer rather than                    a float :)
  
 end
 
